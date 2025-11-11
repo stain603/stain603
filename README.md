@@ -1,4 +1,4 @@
-<!-- ✨ Versão Dark inspirada na KOMPO -->
+
 <div align="center">
  
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9D7BFF&center=true&vCenter=true&width=500&lines=+Olá,+sou+Pablo+Dias!;+Desenvolvedor+Front-end+e+Designer;+Criando+interfaces+modernas+e+visualmente+fortes" alt="Typing SVG" />
@@ -15,21 +15,6 @@ Além do código, também desenho e crio artes visuais o que me ajuda a ter um o
 
 </div>
 
-###  Projeto em destaque — KOMPO
-
-> A **KOMPO** é uma biblioteca de componentes front-end modernos e reutilizáveis, criada para ajudar desenvolvedores a construir interfaces bonitas, rápidas e funcionais sem complicação.  
->  *Filosofia:* simplificar o processo criativo e elevar o padrão visual dos projetos.
-
----
-
-###  Linguagens e Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,figma,vscode" />
-</p>
-
----
-
 ### Estatísticas
 
 <div align="center">
@@ -37,6 +22,10 @@ Além do código, também desenho e crio artes visuais o que me ajuda a ter um o
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stain603&show_icons=true&theme=radical&hide_true&title_color=9D7BFF&text_color=CCCCCC&bg_color=0D1117" />
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stain603&layout=compact&theme=radical&hide_true&title_color=9D7BFF&text_color=CCCCCC&bg_color=0D1117" />
+
+<br>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,figma,vscode" />
 
 </div>
 
@@ -52,7 +41,6 @@ Essas experiências me ajudam a trazer mais sensibilidade estética e harmonia p
   <a href="https://github.com/stain603" target="_blank"><img src="https://img.shields.io/badge/GitHub-6E57E0?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9D7BFF&height=100&section=footer"/>
