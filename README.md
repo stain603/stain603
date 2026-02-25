@@ -1,39 +1,33 @@
 <div align="center">
  
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9D7BFF&center=true&vCenter=true&width=500&lines=+Hi,+I'm+Pablo+Dias!;+Front-end+Developer+and+Designer;+Creating+modern+and+visually+strong+interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9D7BFF&center=true&vCenter=true&width=600&lines=+Hi,+I'm+Pablo+Dias!;+Full+Stack+Developer+%26+Designer;+Building+scalable+and+visually+stunning+apps" alt="Typing SVG" />
 
 ---
 
-### 💜 Front-end Developer | Designer & Illustrator
+### 💜 Full Stack Developer | Designer & Illustrator
 
-I am passionate about creating modern, functional, and visually pleasing interfaces.  
-I like to combine logic and aesthetics, transforming ideas into simple and effective experiences.  
-Beyond coding, I also draw and create visual arts, which helps me have a sharper eye for design and usability.
+I am passionate about building modern, scalable, and visually pleasing applications.  
+My focus is bridging the gap between robust back-end logic and intuitive, aesthetic front-end experiences.  
+Beyond coding, my background in visual arts allows me to deliver high-quality design and usability.
 
 ---
 
 </div>
 
-### Statistics
+### My Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stain603&theme=radical&fire=9D7BFF&ring=9D7BFF&sideNums=CCCCCC&sideLabels=CCCCCC&dates=CCCCCC" alt="GitHub Streak" />
+</p>
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=stain603&show_icons=true&theme=radical&hide_true&title_color=9D7BFF&text_color=CCCCCC&bg_color=0D1117" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stain603&layout=compact&theme=radical&hide_true&title_color=9D7BFF&text_color=CCCCCC&bg_color=0D1117" />
-
-<br>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,figma,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,java,spring,postgres,docker,figma,vscode" />
 </div>
 
 ---
 
 ### Beyond the Code
 
-When I'm not programming, I enjoy drawing, creating visual arts, and experimenting with new design ideas.  
-These experiences help me bring more aesthetic sensitivity and harmony to the front-end projects I develop.
+When I'm not architecting systems or designing interfaces, I'm creating visual art. These creative outlets keep my aesthetic sense sharp and help me bring unique perspectives to the digital products I develop.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devpablodias" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9D7BFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -43,5 +37,4 @@ These experiences help me bring more aesthetic sensitivity and harmony to the fr
 
 <div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9D7BFF&height=100&section=footer"/>
-
 </div>
