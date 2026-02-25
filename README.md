@@ -1,21 +1,20 @@
-
 <div align="center">
  
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9D7BFF&center=true&vCenter=true&width=500&lines=+Olá,+sou+Pablo+Dias!;+Desenvolvedor+Front-end+e+Designer;+Criando+interfaces+modernas+e+visualmente+fortes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9D7BFF&center=true&vCenter=true&width=500&lines=+Hi,+I'm+Pablo+Dias!;+Front-end+Developer+and+Designer;+Creating+modern+and+visually+strong+interfaces" alt="Typing SVG" />
 
 ---
 
-### 💜 Desenvolvedor Front-end |  Designer & Ilustrador
+### 💜 Front-end Developer | Designer & Illustrator
 
-Sou apaixonado por criar interfaces modernas, funcionais e visualmente agradáveis.  
-Gosto de unir lógica e estética, transformando ideias em experiências simples e eficazes.  
-Além do código, também desenho e crio artes visuais o que me ajuda a ter um olhar mais apurado para design e usabilidade.
+I am passionate about creating modern, functional, and visually pleasing interfaces.  
+I like to combine logic and aesthetics, transforming ideas into simple and effective experiences.  
+Beyond coding, I also draw and create visual arts, which helps me have a sharper eye for design and usability.
 
 ---
 
 </div>
 
-### Estatísticas
+### Statistics
 
 <div align="center">
 
@@ -31,10 +30,10 @@ Além do código, também desenho e crio artes visuais o que me ajuda a ter um o
 
 ---
 
-###  Além do Código
+### Beyond the Code
 
-Quando não estou programando, gosto de desenhar, criar artes visuais e experimentar novas ideias de design.  
-Essas experiências me ajudam a trazer mais sensibilidade estética e harmonia para os projetos front-end que desenvolvo.
+When I'm not programming, I enjoy drawing, creating visual arts, and experimenting with new design ideas.  
+These experiences help me bring more aesthetic sensitivity and harmony to the front-end projects I develop.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devpablodias" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9D7BFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
